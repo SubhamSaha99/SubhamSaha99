@@ -3,11 +3,7 @@
 <h1 align="center">Hi 👋, I'm Subham Saha</h1>
 <h3 align="center">A passionate Full Stack web developer from India</h3>
 <p align="center">
-  <img
-    src="https://tenor.com/view/hacker-pc-meme-matrix-codes-gif-957418705100170940"
-    alt="Hacker coding GIF"
-    width="400"
-  />
+  <img width="374" height="353" alt="image" src="https://github.com/user-attachments/assets/14f7629e-b62c-458f-857b-7ed2cbf30474" />
 </p>
 
 
