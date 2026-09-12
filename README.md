@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack web developer from India</h3>
 <p align="center">
   <img
-    src="[https://media.tenor.com/7b1x1XxY4H8AAAAC/hacker-pc.gif](https://tenor.com/view/hacker-pc-meme-matrix-codes-gif-957418705100170940)"
+    src="https://tenor.com/view/hacker-pc-meme-matrix-codes-gif-957418705100170940"
     alt="Hacker coding GIF"
     width="400"
   />
