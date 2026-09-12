@@ -2,7 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Subham Saha</h1>
 <h3 align="center">A passionate Full Stack web developer from India</h3>
-<div class="tenor-gif-embed" data-postid="957418705100170940" data-share-method="host" data-aspect-ratio="1.05957" data-width="100%"><a href="https://tenor.com/view/hacker-pc-meme-matrix-codes-gif-957418705100170940">Hacker Pc GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img
+    src="https://media.tenor.com/7b1x1XxY4H8AAAAC/hacker-pc.gif"
+    alt="Hacker coding GIF"
+    width="400"
+  />
+</p>
 
 
 # 💫 About Me:
